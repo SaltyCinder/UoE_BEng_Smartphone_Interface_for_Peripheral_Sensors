@@ -1,7 +1,4 @@
 Smartphone Interface for Peripheral Sensors (BEng Project)
 Supervisor: Jiabin Jia	Electronic Laboratory, Edinburgh
 September 2023 – May 2024
-The project developed an external embedded system unit and bidirectional communications through Bluetooth. Results from a strain gauge are validated with digital image correlation (DIC). (Grade: 75/100, A3)
-•	Designed and implemented a bidirectional communication framework connecting passive (temperature detector DHT-11) and active (vibrating wire strain gauge with a readout unit VM501) sensors to Android smartphones using Bluetooth, enabling both data acquisition and excitation control. 
-•	Designed a multi-page Android application in App Inventor for sensor selection and live charts implemented via embedded HTML. The app also achieves usual controls of most sensors including switching between auto and manual modes, excitation signal setting for active sensors and abnormal reading warning. Customised commends that controls external units or read specified registers can be set in hex code.
-•	Validated temperature, humidity, and strain readings via local measurements and 2D-DIC, achieving ≤3.7% error for environmental sensors and ≤9.6% for structural strain. The system’s accuracy, modular design and low-cost architecture offer strong potential for scalable deployment in fields such as infrastructure monitoring, smart household applications, and portable diagnostic devices.
+The project developed an external embedded system unit and bidirectional communications through Bluetooth. Results from a strain gauge are validated with digital image correlation (DIC).
